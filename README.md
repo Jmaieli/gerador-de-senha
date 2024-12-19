@@ -1,3 +1,5 @@
+Gerador de Senhas
+
 Este é um projeto de gerador de senhas, criado com HTML, CSS e JavaScript, que permite gerar senhas fortes e aleatórias de forma fácil e segura. O usuário pode personalizar o tamanho da senha utilizando uma barra deslizante para ajustar o comprimento conforme necessário.
 
 Funcionalidades
